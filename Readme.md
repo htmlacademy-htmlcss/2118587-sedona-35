@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Nikolay Sokolov](https://up.htmlacademy.ru/htmlcss/35/user/2118587).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктория Куликова](https://htmlacademy.ru/profile/id293745).
 
 ---
 
